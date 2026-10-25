@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CurrencyExchangeAdapter.API/CurrencyExchangeAdapter.API.csproj" />
+  <Project Path="EarthquakeAdapter.API/EarthquakeAdapter.API.csproj" />
+</Solution>
