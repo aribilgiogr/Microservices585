@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="BookStore.API/BookStore.API.csproj" />
   <Project Path="CurrencyExchangeAdapter.API/CurrencyExchangeAdapter.API.csproj" />
   <Project Path="EarthquakeAdapter.API/EarthquakeAdapter.API.csproj" />
+  <Project Path="Gateway/Gateway.csproj" Id="437ddf06-96b3-4474-91fb-6053758402dc" />
+  <Project Path="People.API/People.API.csproj" />
 </Solution>
